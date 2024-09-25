@@ -2,6 +2,6 @@
 <details>
   <h2><summary>Başlık ve Biçimlendirme </summary></h2>
   
-<p> Bu bölümde başlık ve biçimlendirme etiketleri kullanılmıştır</p>
+<p><li> Bu bölümde başlık ve biçimlendirme etiketleri kullanılmıştır</li></p>
 <p> HTML ile başlık oluşturma</p>
 </details>
