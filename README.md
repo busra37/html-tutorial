@@ -4,5 +4,5 @@
   
 <p><li> Bu bölümde başlık ve biçimlendirme etiketleri kullanılmıştır</li></p>
 <p><li> HTML ile başlık oluşturma</li></p>
-<p><li> Sıralı sırasız başlık oluşturma </li></p>
+<p><li> Sıralı sırasız liste oluşturma </li></p>
 </details>
