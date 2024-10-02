@@ -6,3 +6,6 @@
 <p><li> HTML ile başlık oluşturma</li></p>
 <p><li> Sıralı sırasız liste oluşturma </li></p>
 </details>
+
+<detalies>
+<h2><summary>241002</summary></h2>
