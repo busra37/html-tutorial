@@ -5,7 +5,12 @@
 <p><li> Bu bölümde başlık ve biçimlendirme etiketleri kullanılmıştır</li></p>
 <p><li> HTML ile başlık oluşturma</li></p>
 <p><li> Sıralı sırasız liste oluşturma </li></p>
+
+<h2><summary>241002</summary></h2>
+
+
 </details>
 
-<detalies>
-<h2><summary>241002</summary></h2>
+
+
+
