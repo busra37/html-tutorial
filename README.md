@@ -15,7 +15,7 @@
 
 <h2><summary>241009</summary></h2>
 <p><li>JPEG1: Tablo İçinde Resim Ekleme (Meyveli)</li></p>
-<p><li>JPEG2: Tablo İçinde REsim Ekleme (İstanbul Resimli)</li></p>
+<p><li>JPEG2: Tablo İçinde Resim Ekleme (İstanbul Resimli)</li></p>
 <p><li>JPEG3: Tablo İçinde Resim Ekleme (Öğrenci Kimlik Kartı)</li></p>
 
 
