@@ -1,10 +1,10 @@
 <h1> HTML Etikletleri Kullanımı</h1>
 <details>
 <h2>240925</h2>
-<p><li>UYGULAMA1: HTML İle Başlık Oluşturma</p>
-<p><li>UYGULAMA2: Paragraf Etiketi Kullanımı <\li><\p>
-<p><li>UYGULAMA3: Biçimlendirme Etiketleri Kullanımı</li><\p>
-<p><li>UYGULAMA4: Sıralı Sırasız Liste Kullanımı<\li><\p>
+<p><li>UYGULAMA1: HTML İle Başlık Oluşturma</li></p>
+<p><li>UYGULAMA2: Paragraf Etiketi Kullanımı</li></p>
+<p><li>UYGULAMA3: Biçimlendirme Etiketleri Kullanımı</li></p>
+<p><li>UYGULAMA4: Sıralı Sırasız Liste Kullanımı</li></p>
 
 
 <h2>241002</h2>
