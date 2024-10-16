@@ -6,7 +6,7 @@
 <p><li> HTML ile başlık oluşturma</li></p>
 <p><li> Sıralı sırasız liste oluşturma </li></p>
 
-<h2><li><summary>241002</summary></li></h2>
+<h2><summary>241002</summary></h2>
 <p><li>List1: İç İçe Liste Öğrenme</li></p>
 <p><li>List2: İç İçe Liste Yapma</li></p>
 <p><li>Table: Tablo Satırı ve Hücre Öğrenme</li></p>
