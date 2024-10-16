@@ -19,7 +19,7 @@
 <p><li>JPEG3: Tablo İçinde Resim Ekleme (Öğrenci Kimlik Kartı)</li></p>
 
 <h2>202016</h2>
-<p><li>OUİZ ÇÖZÜM: İkinci Quiz Çözüm</li></p>
+<p><li>QUIZ COZUM: İkinci Quiz Çözüm</li></p>
 <p><li>TABLE: Resimli Tablo</li></p>
 <p><li>PICSUM: Picsum Uygulamasından Rastegele Resim Ekleme</li></p>
 <p><li>VIDEO: Video Ekleme</li></p>
