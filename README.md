@@ -26,6 +26,9 @@
 <p><li>VIDEO: Video Ekleme</li></p>
 <p><li>VIDEOLU TABLO: Videolu Tablo Ekleme</li></p>
 
+<h2>241023</h2>
+<p><li>UYGULAMA1: Web Sayfalarına Etkileşim Verme</li></p>
+
 
 </details>
 
