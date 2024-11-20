@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Nitelikleri</title>
+</head>
+<body>
+    <h1>Form Uygulama</h1>
+    <form action="https://yazilimbilisim.net/ogrenciler/kontrol.php" method="post">
+        <label for="ad">Adınız:</label>
+        <input type="text" id="ad" name="ad"  placeholder="Adınızı Giriniz" maxlength="20"  required autocomplete="20"><br><br>
+        <!--placeholder = yazıları gri yazıyor-->
+        <!--maxlength en fazla 20 karakter yazıyor-->
+        <!-- autocomplate =  zorunlu alan oluşturuyor-->
+
+        <label for="sad">Soyad:</label>
+        <input type="text" id="sad" name="sad" placeholder="Soyadınızı Giriniz" required><br><br>
+        <!--placeholder = yazıları gri yazıyor-->
+
+        <label for="dtarih">Doğum Tarihi:</label>
+        <input type="date" id="dtarih" name="dtarih" value="2015-06-20" min="2000-01-01" max="2024-01-01"><br><br>
+        <!-- value = sayfada varsayılan olarak geliyor-->
+        <!-- min max = minumum maxsimum olarak değerleri ayarlıyor-->
+
+        <label for="sifre">Şifreniz:</label>
+        <input type="password" id="sifre" name="sifre" minlength="6" maxlength="16"><br><br>
+         <!-- min max = minumum maxsimum olarak değerleri ayarlıyor-->
+
+        <label for="maas">Maaşınız:</label>
+        <input type="number" id="maas" name="maas" min="5000" max="10000" step="500"><br><br>
+         <!-- min max = minumum maxsimum olarak değerleri ayarlıyor-->
+         <!--step = belirlenen değer kadar arttırıyor-->
+
+        <label for="eposta">E-Postanız:</label>
+        <input type="email" id="eposta" name="eposta" placeholder="kisi@eposta.com"><br><br>
+        <!--placeholder = yazıları gri yazıyor-->
+
+        <label for="hobi">Hobiniz:</label>
+        <input type="text" id="hobi" name="hobi" list="hobiler"><br><br>
+        <datalist id="hobiler">
+            <option value="Resim"></option>
+            <option value="Çizim"></option>
+        </datalist>
+        <!--list = liste oluşturuyor-->
+        <!--datalist = listenin içinde öneri bulunduruyor-->
+
+        <label for="kad">Kulanıcı Adınız:</label>
+        <input type="text" id="kad" name="kad"><br><br>
+
+        <label for="not">Kredi Notu:</label>
+        <input type="text" id="not" name="not" disabled value="70"><br><br>
+        <!-- disabled = kutunun içine girilmesine izin verilmiyor-->
+        <!-- value = varsayılan ayarlanıyor-->
+
+        <label for="dosya">Özgeçmiş Dosya:</label>
+        <input type="file" id="dosya" name="dosya"><br><br>
+
+        <button type="submit"> Kaydet</button>
+
+        <button type="reset">Temizliyor</button>
+        <!-- Sayfadaki her şeyi siliyor-->
+
+    </form>
+</body>
+</html>
