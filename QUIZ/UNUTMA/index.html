@@ -72,11 +72,38 @@
     <label for="ad">Adınız:</label>
     <input type="text" id="ad" name="ad">
 
-    <placeholder>  <!-- yazıları gri yazıyor-->
-    <maxlength="20"> <!-- en fazla karakter belirleme>
+    <placeholder>  <!-- yazıları gri yazıyor yer tutucu-->
+    <maxlength="20"> <!-- en fazla karakter belirleme-->
     <autocomplate=20">   <!--zorunlu alan oluşturuyor-->
-     
-         
+
+    <textarea name="gorus" id="gorus"> </textarea> <!--görüş yazma kutusu burda placeholder yazarken SAKIN BOŞLUK BIRAKMA YAZI GÖZÜKMEZ-->
+
+    <rows="10"> <!--satır-->
+    <cols="10"> <!--sütun-->
+
+
+    <label for="sikayet">Şikayet:</label>
+    <input type="radio" name="durum" id="sikayet" value="1">
+                                                                <!--- radiolarda namelerin AYNI olması zorunlu-->
+    <label for="oneri">Öneri:</label>
+    <input type="radio" name="durum" id="oneri" value="2">
+
+    <button type="submit">Kaydet</button>    <!--kaydet butonu oluşturuyor-->
+
+    <label for="durum">İstek Tipi</label>
+    <input type="text" name="durum" id="durum" list="durumlar">
+    <datalist id="durumlar">
+        <option value="Öneri"></option>
+        <option value="Şikayet"></option>         <!--listenin içinde öneri bulundurması için-->
+        <option value="Hata"></option>
+    </datalist>
+
+    <label for="durum">İstek Tipi</label>
+    <select>
+        <option value="1">Öneri</option>
+        <option value="2">Şikayet</option>         <!--datalistle aynı görevi yapıyo sadece kutu içinde veriyor-->
+        <option value="3">Hata</option>
+    </select>
 
     
     
