@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIZ</title>
+</head>
+<body>
+    <h1>BÜŞRA MERVE EKMNE</h1>
+    <form action="https://yazilimbilisim.net/ogrenciler/kontrol.php" method="post">
+        <fieldset>
+            <legend>BÜŞRA MERVE EKMEN</legend>
+            <label for="anahtar">Güvenlik Anahtarı:</label>
+            <input type="number" name="anahtar" id="anahtar" disabled><br><br>
+            <label for="eposta">E-Posta:</label>
+            <input type="email" name="eposta" id="eposta" placeholder="Örn.admin.@gmail.com" required><br><br>
+            <label for="dtarih">Doğum Tarihi:</label>
+            <input type="date" name="dtarih" id="dtarih" min="2000-01-01" max="2010-01-01"><br><br>
+            <label for="sifre">Şifre:</label>
+            <input type="password" name="sifre" id="sifre" minlength="8" maxlength="8"><br><br>
+            <label for="secim">Avatar Seçimi:</label>
+            <select>
+                <option value="1">dory</option>
+                <option value="2">nemo</option>       
+                <option value="3">nemo</option>
+                <option value="4">rango</option>
+            </select>
+
+        </fieldset>
+        <button type="submit">Kaydet</button>
+        <button type="reset">Temizle</button>
+    </form>
+</body>
+</html>
