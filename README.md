@@ -1,6 +1,6 @@
 <h1> HTML Etikletleri Kullanımı</h1>
-<details>
 <h2>240925</h2>
+<details>
 <p><li>UYGULAMA1: HTML İle Başlık Oluşturma</li></p>
 <p><li>UYGULAMA2: Paragraf Etiketi Kullanımı</li></p>
 <p><li>UYGULAMA3: Biçimlendirme Etiketleri Kullanımı</li></p>
