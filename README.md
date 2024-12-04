@@ -5,6 +5,7 @@
 <p><li>UYGULAMA2: Paragraf Etiketi Kullanımı</li></p>
 <p><li>UYGULAMA3: Biçimlendirme Etiketleri Kullanımı</li></p>
 <p><li>UYGULAMA4: Sıralı Sırasız Liste Kullanımı</li></p>
+</details>
 
 
 <h2>241002</h2>
@@ -30,7 +31,7 @@
 <p><li>UYGULAMA1: Web Sayfalarına Etkileşim Verme</li></p>
 
 
-</details>
+
 
 
 
