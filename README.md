@@ -1,11 +1,11 @@
 <h1> HTML Etikletleri Kullanımı</h1>
-<h2>240925</h2>
 <details>
+<h2>240925</h2>
 <p><li>UYGULAMA1: HTML İle Başlık Oluşturma</li></p>
 <p><li>UYGULAMA2: Paragraf Etiketi Kullanımı</li></p>
 <p><li>UYGULAMA3: Biçimlendirme Etiketleri Kullanımı</li></p>
 <p><li>UYGULAMA4: Sıralı Sırasız Liste Kullanımı</li></p>
-</details>
+
 
 
 <h2>241002</h2>
@@ -29,6 +29,8 @@
 
 <h2>241023</h2>
 <p><li>UYGULAMA1: Web Sayfalarına Etkileşim Verme</li></p>
+
+</details>
 
 
 
